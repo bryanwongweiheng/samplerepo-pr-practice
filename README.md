@@ -18,3 +18,6 @@ Not a header.
 - absinthe
 - whisky
 - vodka
+- coke
+- coffee
+- kickapoo
